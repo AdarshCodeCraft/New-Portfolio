@@ -1,2 +1,3 @@
 # Portfolio
-<h1>Welcome to my Portfolio! This webpage is a showcase of the projects I've worked on, created using HTML, CSS, and JavaScript.</h1>
+<h1>Welcome to my personal Portfolio Website! 🚀
+This project showcases my journey as a Full Stack Developer, highlighting my projects, skills, and achievements in web development and beyond.</h1>
