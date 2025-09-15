@@ -6,6 +6,6 @@
 <h4>🌙 Dark/Light Mode Toggle – Switch themes easily.</h4>
 <h4>📂 Projects Showcase – Explore my work and contributions</h4>
 <h4>📬 Contact Form – Connect with me directly via email.</h4>
-<h4>📸 Preview</h4>
+<h3>📸 Preview</h3>
 <img src="Screenshot 2025-09-15 003822.png" alt="Img">
 
